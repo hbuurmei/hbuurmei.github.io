@@ -1,12 +1,13 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description: Brief descriptions of the courses for which I have been involved as a teaching fellow.
 nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+Currently, my teaching efforts have been in the form of assisting professors in their teaching.
+A list of those classes can be found below.
 
-Organize your courses by years, topics, or universities, however you like!
+WIP
