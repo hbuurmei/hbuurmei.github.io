@@ -5,7 +5,7 @@ I got my template from [al-folio](https://github.com/alshedivat/al-folio) and ca
 Some To Do's:
 - [x] Add social
 - [ ] Populate pages
-  - [ ] Publications
+  - [ ] Publications & reviews (just names)
   - [ ] Projects
   - [ ] CV
   - [ ] Teaching
