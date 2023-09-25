@@ -2,13 +2,13 @@
 layout: about
 title: About
 permalink: /
-subtitle: Master Student at Stanford University
+subtitle: Master Student at Stanford University 📍 Stanford, USA
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
-  address: 📍 Delft, 2022
+  address: 📸 Taken in Delft, 2022
     
 
 news: true  # includes a list of news items
