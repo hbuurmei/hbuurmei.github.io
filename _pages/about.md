@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hi there! I am Hugo and I am a current master's student at Stanford University interested in robotics and controls. I am excited about doing research and will be continuing my academic career by pursuing a PhD.
 
-**Current interests:**
+**Current research interests:**
 - Performance guarantees for learned modules of autonomy stack
 - Autonomy for (distributed) space missions
-- Bio-inspired robotics
+- Bio-inspired and soft robotics

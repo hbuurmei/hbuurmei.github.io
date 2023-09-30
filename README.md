@@ -13,6 +13,6 @@ Some To Do's:
     - [ ] Harvard summer internship
     - [ ] ESA summer school
     - [ ] Graduation TU Delft
-    - [ ] Interview with ESA Incubation Center
+    - [x] Interview with ESA Incubation Center
     - [ ] Talk for Reef Support at event (with picture)
 - [ ] Get hbuurmei.com or hugobuurmeijer.com as domain?
