@@ -6,6 +6,7 @@ Some To Do's:
 - [x] Add socials
 - [ ] Populate pages
   - [ ] Publications & reviews (just names)
+  - [ ] Add link to Google Scholar for more complete/up-to-date list
   - [ ] Projects
   - [ ] CV
   - [ ] Teaching
