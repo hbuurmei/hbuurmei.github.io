@@ -8,13 +8,11 @@ Some To Do's:
   - [ ] Publications & reviews (just names)
   - [ ] Add link to Google Scholar for more complete/up-to-date list
   - [ ] Projects
+    - [ ] DSE project, linked to post.
   - [ ] CV
-  - [ ] Teaching
-  - [ ] news
-    - [ ] Harvard summer internship
-    - [ ] ESA summer school
-    - [ ] Graduation TU Delft
-    - [x] Interview with ESA Incubation Center
-    - [ ] Talk for Reef Support at event (with picture)
+  - [X] Teaching
+  - [X] News
+    - [X] Harvard summer internship
+    - [X] ESA summer school
 - [ ] Make website searchable on Google and Bing
 - [ ] Get hbuurmei.com or hugobuurmeijer.com as domain?
