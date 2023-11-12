@@ -23,4 +23,3 @@ Hi there! I am Hugo and I am a current master's student at Stanford University i
 - Performance guarantees for learned modules of autonomy stack
 - Autonomy for (distributed) space missions
 - Bio-inspired and soft robotics
-

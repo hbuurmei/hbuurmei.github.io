@@ -2,14 +2,13 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: A non-exhaustive list of projects that I have undertaken.
+description: A non-exhaustive list of projects that I have undertaken (WIP).
 nav: true
 nav_order: 3
-display_categories: [work, other]
+display_categories: [Academic, Other]
 horizontal: false
 ---
 
-<!-- pages/projects.md -->
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
