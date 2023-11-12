@@ -2,13 +2,13 @@
 
 I got my template from [al-folio](https://github.com/alshedivat/al-folio) and can highly recommend it!
 
-Some To Do's:
+Initial todos:
 - [x] Add socials
 - [ ] Populate pages
-  - [ ] Publications
+  - [X] Publications
   - [ ] Projects
     - [ ] DSE project, linked to post.
-  - [ ] CV
+  - [X] CV
   - [X] Teaching
   - [X] News
     - [X] Harvard summer internship
