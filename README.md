@@ -5,8 +5,7 @@ I got my template from [al-folio](https://github.com/alshedivat/al-folio) and ca
 Some To Do's:
 - [x] Add socials
 - [ ] Populate pages
-  - [ ] Publications & reviews (just names)
-  - [ ] Add link to Google Scholar for more complete/up-to-date list
+  - [ ] Publications
   - [ ] Projects
     - [ ] DSE project, linked to post.
   - [ ] CV
